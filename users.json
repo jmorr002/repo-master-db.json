@@ -1,0 +1,74 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "KyraElayne Hendrickson",
+            "username": "astroromanticism"
+        },
+        {
+            "id": 2,
+            "name": "David Hammett",
+            "username": "cpowayne"
+        },
+        {
+            "id": 3,
+            "name": "Mark Woody",
+            "username": "woodstock"
+        },
+        {
+            "id": 4,
+            "name": "Haley Cable",
+            "username": "hmcable"
+        },
+        {
+            "id": 5,
+            "name": "Salah Salman",
+            "username": "ADCake"
+        },
+        {
+            "id": 6,
+            "name": "Billy Ivy",
+            "username": "god-incarnate"
+        },
+        {
+            "id": 7,
+            "name": "Caleb Bergthold",
+            "username": "cberg"
+        },
+        {
+            "id": 8,
+            "name": "Hannah Mason",
+            "username": "hgmason"
+        },
+        {
+            "id": 9,
+            "name": "Andrew Curtis",
+            "username": "AzureFissure"
+        },
+        {
+            "id": 10,
+            "name": "Logan Couch",
+            "username": "V-O-I-D"
+        },
+        {
+            "id": 11,
+            "name": "Bryce Richardson",
+            "username": "!Step_Dad!"
+        },
+        {
+            "id": 12,
+            "name": "Weston Helton",
+            "username": "captainweston"
+        },
+        {
+            "id": 13,
+            "name": "Jeremiah Niehls",
+            "username": "jpbeaster"
+        },
+        {
+            "id": 14,
+            "name": "Bailey Fite",
+            "username": "FiteMe"
+        }
+    ]
+}
